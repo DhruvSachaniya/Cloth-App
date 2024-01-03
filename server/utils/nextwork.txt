@@ -1,0 +1,13 @@
+fix the subtotal logic
+what if cart is empty and user try to checkout?
+empty cart after buying processed
+logout session implement
+-> fix that not use seller everywhere make it into center
+ 
+
+// active
+-> reviews 
+-> confirom all status code with stetment
+-> add status is product is in stock or not
+-> make product to can out of stock
+-> send email
